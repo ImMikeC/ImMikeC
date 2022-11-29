@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [PotHole Bank](https://github.com/JimeMatthies/ProyectoFinalFrontEnd)
 
-- 🌱 I’m currently learning **VueJS and Fast API**
+- 🌱 I’m currently learning **VueJS and Fast API.**
 
-- 💬 Ask me about **Flask, SQLAlchemy, SQL from any driver, ReactJS.**
+- 💬 Ask me about: **Flask, SQLAlchemy, SQL from any driver, ReactJS and Python.**
 
-- 📫 How to reach me **hebressus@gmail.com**
+- 📫 How to reach me --> **hebressus@gmail.com**
 
 - ⚡ Fun fact: **I love robotics with PIC and Arduino.**
 
