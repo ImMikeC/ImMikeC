@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **VueJS and Fast API**
 
-- 💬 Ask me about **Flask, SQLAlchemy, SQL queries.**
+- 💬 Ask me about **Flask, SQLAlchemy, SQL from any driver, ReactJS.**
 
 - 📫 How to reach me **hebressus@gmail.com**
 
-- ⚡ Fun fact **I love robotics with PIC and Arduino.**
+- ⚡ Fun fact: **I love robotics with PIC and Arduino.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
