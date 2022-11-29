@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **Flask, SQLAlchemy, SQL from any driver, ReactJS and Python.**
 
-- 📫 How to reach me --> **hebressus@gmail.com**
+- 📫 How to reach me --> **hebressus@gmail.com** **linkedin.com/in/josé-miguel-correa-a601614b**
 
 - ⚡ Fun fact: **I love robotics with PIC and Arduino.**
 
