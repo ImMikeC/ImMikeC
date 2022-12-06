@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm José Miguel Correa</h1>
+<h1 align="center">Hi 👋, I'm José Miguel Correa </h1>
 <h3 align="center">Junior Full Stack developer from Chile</h3>
 
 - 🔭 I’m currently working on [PotHole Bank](https://github.com/ImMikeC/PotHole_Bank)
