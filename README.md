@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm José Miguel Correa </h1>
 <h3 align="center">Junior Full Stack developer from Chile</h3>
 
-- 🔭 I’m currently working on [PotHole Bank](https://github.com/ImMikeC/PotHole_Bank)
+- 🔭 I’m currently working on [OCR Text Detection](https://github.com/ImMikeC/tesseract-python-ocr) & [PowerApp Counter](https://github.com/ImMikeC/Contador_Power_App)
 
 - 🌱 I’m currently learning **VueJS and Fast API.**
 
